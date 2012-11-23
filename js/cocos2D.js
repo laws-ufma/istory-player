@@ -16,5 +16,6 @@
         d.body.appendChild(s);
         s.c = c;
         s.id = 'cocos2d-html5';
+		
     });
 })();
